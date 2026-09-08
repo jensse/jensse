@@ -12,4 +12,8 @@ _I investigate how technology, organisations and people actually work — and I 
 * __Trinity__ - _An experiment in building a small, understandable computing environment._
 * __Pindiary__ - _capturing observations as photographs, sound and structured information._
 * __Risk ontology__ — _exploring whether information security can have something resembling the conceptual framework used in environmental administration._
-* __Infrastructure__ - _Self-healing, "organic", multisite server infrastructure_  
+* __Infrastructure__ - _Self-healing, "organic", multisite server infrastructure with dynamic resource pooling across adaptive infrastructure_
+    * Cores
+    * Ram
+    * GPU
+    * Bandwith
